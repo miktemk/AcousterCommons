@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nullValue"></string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="gotoMarket">Take a look!</string>
+    <string name="buyDialogTitle">Feature locked!</string>
+    <string name="buyDialogMessage">This feature is only available on PRO version of this app.</string>
+    
+    <string name="eula_title">Disclaimer</string>
+    <string name="eula_text"><![CDATA[Please read, understand and accept the disclaimer<br/><br/>
+The End User is the Accouster product user (you) and any of his or her representatives.<br/>
+The Company is Accouster Inc<br/><br/>
+By clicking on “Accept” button The End User agrees that The Company cannot and will not have any legal liability or responsibility for any damage or losses associated this product and its usage including but not limiting any financial losses, property or health damage or any other possible losses or damage or both.<br/>
+]]></string>
+    
+    
+</resources>

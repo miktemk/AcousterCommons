@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item format="integer" type="integer" name="standardPadding">20</item>
+    <item format="integer" type="integer" name="standardPaddingSmall">5</item>
+    <item format="integer" type="integer" name="splashDurationMillis">2000</item>
+    <string name="adUnitId">a15159cca222644</string>
+    
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="org/acouster/desktop/EyeFitness/|org/acouster/desktop/fcalc/|org/acouster/desktop/karate/|org/acouster/platinum/xml/|org/acouster/platinum/xml/menu/|org/acouster/platinum/xml/mp3split/|org/acouster/gravball/|org/acouster/antsStoned/desktop/|utils/mpeg/fload/|org/acouster/gameTests/glasses/|org/acouster/gameTests/sleep/|org/acouster/eyes/desktop/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/org.acouster"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/org.acouster.simplexml"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/org.acouster.zdesktop"/>
+	<classpathentry kind="lib" path="/_jar/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="/_jar/simple-xml-2.6.9.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/org.acouster.JustTyping"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/zterminal.SleepTimer"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,3 @@
+#name = zterminal.oooopsTEST
+name = zterminal.JustTyping
+packagePart = justTyping
