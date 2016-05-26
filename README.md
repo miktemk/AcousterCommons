@@ -1,6 +1,8 @@
 Acouster Commons
 ================
 
+> NOTE: these were written in Eclipse and not Andoid Studio + Gradle. I have not yet had a chance to convert these projects to Gradle. Work in progress baby!
+
 These are the core Acouster libraries on top of which you can write finished apps.
 
  - **_zstartAndroid**	- running `ZNewProject.py` will create 2 new project folders
